@@ -85,7 +85,7 @@ Proyek ini dirancang untuk dijalankan di **Google Colab**.
 
 ---
 
-## 📄 Contoh Output
+## Contoh Output
 
 Setelah proses selesai, Anda akan mendapatkan:
 1.  **Video Hasil**: Sebuah file video baru (`hasil_nama_video.mp4`) di dalam folder `output/` yang berisi semua visualisasi.
@@ -93,7 +93,7 @@ Setelah proses selesai, Anda akan mendapatkan:
 
 ---
 
-## ⚠️ Keterbatasan
+## Keterbatasan
 
 -   **Oklusi (Tumpang Tindih)**: Sistem mungkin kesulitan melacak objek jika tertutup oleh objek lain dalam waktu yang lama.
 -   **Akurasi Kecepatan**: Estimasi kecepatan sangat bergantung pada kalibrasi manual `PPM_RATIO` dan sudut pandang kamera.
