@@ -8,7 +8,7 @@ Proyek ini adalah sebuah prototipe sistem berbasis visi komputer untuk mendeteks
 Proyek ini dikembangkan dalam lingkungan Google Colab untuk memanfaatkan akselerasi GPU gratis (T4).
 
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 -   **Deteksi Multi-Kelas**: Mampu mendeteksi 4 jenis kendaraan utama: mobil, motor, bus, dan truk.
 -   **Pelacakan Objek dengan ID Unik**: Setiap kendaraan yang terdeteksi diberikan ID unik yang konsisten selama terlihat di layar.
@@ -20,7 +20,7 @@ Proyek ini dikembangkan dalam lingkungan Google Colab untuk memanfaatkan akseler
 
 ---
 
-## 🛠️ Tumpukan Teknologi
+## Teknologi
 
 -   **Python 3.9+**
 -   **PyTorch**
@@ -32,7 +32,7 @@ Proyek ini dikembangkan dalam lingkungan Google Colab untuk memanfaatkan akseler
 
 ---
 
-## 📂 Struktur Folder
+## Struktur Folder
 
 Untuk menjalankan proyek ini dengan benar, pastikan mengikuti struktur folder berikut di dalam Google Drive:
 
@@ -57,12 +57,12 @@ Untuk menjalankan proyek ini dengan benar, pastikan mengikuti struktur folder be
 
 ---
 
-## 🚀 Instalasi & Cara Penggunaan
+## Instalasi & Cara Penggunaan
 
 Proyek ini dirancang untuk dijalankan di **Google Colab**.
 
 1.  **Persiapan Google Drive**:
-    -   Buat folder utama `Proyek_Object_Tracking` di `MyDrive` Anda.
+    -   Buat folder utama `Proyek_Object_Tracking` di `MyDrive`.
     -   Di dalamnya, buat folder `videos` dan `icons`.
     -   Unggah file-file video Anda ke folder `videos`.
     -   Unggah file-file ikon ke folder `icons`.
